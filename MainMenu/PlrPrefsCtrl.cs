@@ -382,8 +382,8 @@ public class PlrPrefsCtrl : MonoBehaviour, IUnityAdsListener
     //_______________________________AD MANAGER_________________________________
     //__________________________________________________________________________
 
-    private string playStoreID = "3936807";
-    private string appStoreID = "3936806";
+    private string playStoreID = "This info is private.";
+    private string appStoreID = "This info is private.";
 
     private string rewardedVideoAd = "rewardedVideo";
 
